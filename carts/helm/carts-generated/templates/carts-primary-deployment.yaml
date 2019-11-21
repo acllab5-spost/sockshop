@@ -6,7 +6,7 @@ metadata:
   creationTimestamp: "2019-11-21T11:52:08Z"
   generation: 1
   name: carts-primary
-  resourceVersion: "936086"
+  resourceVersion: "936603"
   selfLink: /apis/apps/v1/namespaces/sockshop-production/deployments/carts
   uid: 589e732e-0c55-11ea-b7f3-42010a8401a9
 spec:
